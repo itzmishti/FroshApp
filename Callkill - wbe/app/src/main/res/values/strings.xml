@@ -1,0 +1,142 @@
+<resources>
+    <string name="app_name">Callkill</string>
+    <string name="title_activity_bottom_navigation">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Exercise</string>
+    <string name="title_notifications">Diet</string>
+
+
+    <string name="textviewdiet">
+
+
+        <br><b>\t\tDay one\n\n</b></br>
+        <ul>
+           <br><li>Eat only fruit — any kind except bananas.\n</li></br>
+            <br><li>\tNo maximum amount of fruit is specified.\n</li></br>
+             <br><li>The diet especially encourages followers to \n\teat melons to increase weight loss.\n\n</li></br>
+        </ul>
+
+    <br><b>\t\tDay two\n\n</b></br>
+        <ul>
+           <br><li>Eat only vegetables in raw or cooked form.\n</li></br>
+            <br><li>\tThe diet does not specify a maximum \n\tamount of vegetables.\n</li></br>
+             <br><li>\tLimit potatoes to breakfast only.\n\n</li></br>
+        </ul>
+
+    <br><b>\t\tDay three\n\n</b></br>
+        <ul>
+           <br><li>Eat only fruits and vegetables of any kind \n\texcept bananas and potatoes\n</li></br>
+            <br><li>\tThe diet doesn’t specify a maximum amount\n\n</li></br></ul>
+
+    <br><b>\t\tDay four\n\n</b></br>
+        <ul>
+           <br><li>Consume only bananas and milk.\n</li></br>
+            <br><li>\tYou can eat up to 6 large or 8 small bananas.\n</li></br>
+             <br><li>\tDrink 3 glasses of milk, preferably skim.\n\n</li></br>
+        </ul>
+
+    <br><b>\t\tDay five\n\n</b></br>
+        <ul>
+            <li>Eat two 10-ounce (284-gram) portions of \n\tbeef, chicken or fish.\n</li>
+            <li>\tIn addition to the meat, you may only eat 6 \n\twhole tomatoes.\n</li>
+            <li>\tVegetarians may replace meat with either \n\tbrown rice or cottage cheese.\n</li>
+            <li>\tIncrease your water intake by two glasses to \n\tflush out extra uric acid.\n\n</li>
+        </ul>
+
+
+    <br><b>\t\tDay six\n\n</b></br>
+        <ul>
+           <li>Eat only two 10-ounce (284-gram) portions \n\tof beef, chicken or fish.\n</li>
+            <li>\tToday’s meals may include an unlimited \n\tamount of vegetables, but no potatoes.\n</li>
+             <li>\tVegetarians may replace meat with either \n\tbrown rice or cottage cheese.\n</li>
+            <li>\tIncrease your water intake by two glasses to \n\tflush out extra uric acid.\n\n</li>
+        </ul>
+
+    <br><b>\t\tDay seven\n\n</b></br>
+        <ul>
+           <li>Eat only brown rice, fruits, fruit juice and \n\tvegetables.\n</li>
+            <li>\tNo maximum amount is specified for any of \n\tthese foods.\n</li>
+        </ul></string>
+
+
+    <string name="textview11"><b>"Lunge with bicep curl"\n\n</b>
+         "Intensity :"   "Moderate"\n\n
+        "Benifits : ""Stability,Strength"
+    </string>
+    <string name="textview12">
+       <b>" Step up knee lifts"\n\n</b>
+"Intensity :" "Moderate"\n\n
+        "Benifits : ""Cardio,Stability"
+    </string>
+    <string name="textview13"> <b>"Front kick plank"\n\n</b>
+"Intensity :" "Moderate"\n\n
+        "Benifits : ""Cardio"
+    </string>
+    <string name="textview14"> <b>"Advanced jumping jacks"\n\n</b>
+"Intensity :" "Gentle"\n\n
+        "Benifits : ""Cardio"
+    </string>
+    <string name="textview15"> <b>"Fast step ups"\n\n</b>
+"Intensity :" "Moderate"\n\n
+        "Benifits : ""Cardio ,Stability"
+    </string>
+    <string name="textview16"> <b>"Three way crunches"\n\n</b>
+"Intensity :" "Moderate"\n\n
+        "Benifits : ""Strength,Core"
+    </string>
+    <string name="textview17"> <b>"Sprinter sit-up"\n\n</b>
+  "Intensity :"  "High"\n\n
+        "Benifits : ""Strength,Toning,Core"
+    </string>
+    <string name="textview18"> <b>"Single leg deadlift"\n\n</b>
+"Intensity :" "Moderate"\n\n
+        "Benifits : ""Strength"
+    </string>
+
+
+
+    <string name="textview20"><b>"Shoulder push-up"\n\n</b>
+         "Intensity :"   "Moderate"\n\n
+        "Benifits : ""Stability,Strength"
+    </string>
+    <string name="textview21">
+       <b>" Press and plank"\n\n</b>
+"Intensity :" "Moderate"\n\n
+        "Benifits : ""Strength,Stability"
+    </string>
+    <string name="textview22"> <b>"Dips on floor/bench"\n\n</b>
+"Intensity :" "Moderate"\n\n
+        "Benifits : ""Cardio,Strength"
+    </string>
+    <string name="textview23"> <b>"Plank push-ups"\n\n</b>
+"Intensity :" "High"\n\n
+        "Benifits : ""Cardio,Strength"
+    </string>
+    <string name="textview24"> <b>"Single leg drift"\n\n</b>
+"Intensity :" "Moderate"\n\n
+        "Benifits : ""Cardio ,Stability"
+    </string>
+    <string name="textview25"> <b>"Three way crunches"\n\n</b>
+"Intensity :" "Moderate"\n\n
+        "Benifits : ""Strength,Core"
+    </string>
+    <string name="textview26"> <b>"Sprinter sit-up"\n\n</b>
+  "Intensity :"  "High"\n\n
+        "Benifits : ""Strength,Toning,Core"
+    </string>
+    <string name="textview27"> <b>"Single leg deadlift"\n\n</b>
+"Intensity :" "Moderate"\n\n
+        "Benifits : ""Strength"
+    </string>
+    <string name="textviewHomepage">
+         <br><b>\t\tCategories\n\n</b></br>
+        <ul>
+            <li>Underweight\n</li>
+            <li>\tNormal Weight\n</li>
+            <li>\tObesity\n</li>
+            </ul>
+
+
+
+    </string>
+</resources>

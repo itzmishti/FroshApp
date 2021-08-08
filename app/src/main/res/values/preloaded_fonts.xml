@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/adamina</item>
+        <item>@font/almendra_bold</item>
+        <item>@font/almendra_sc</item>
+        <item>@font/amiko</item>
+        <item>@font/amita</item>
+        <item>@font/andada</item>
+        <item>@font/audiowide</item>
+        <item>@font/bad_script</item>
+        <item>@font/bangers</item>
+        <item>@font/berkshire_swash</item>
+        <item>@font/convergence</item>
+        <item>@font/poppins_semibold</item>
+    </array>
+</resources>

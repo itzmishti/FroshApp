@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="671dp"
+    android:background="#11061B"
+    android:padding="10dp"
+    tools:context=".ui.home.HomeFragment">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <pl.droidsonroids.gif.GifImageView
+                android:layout_width="match_parent"
+                android:layout_height="290dp"
+                android:src="@drawable/party" />
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="match_parent"
+                android:layout_height="72dp"
+                android:background="#1B083A"
+                android:fontFamily="@font/andada"
+                android:gravity="center"
+                android:shadowColor="#9F0BD8"
+                android:text="About Us"
+                android:textColor="#1FF2EC"
+                android:textSize="48sp" />
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:fontFamily="@font/amiko"
+                android:gravity="center"
+                android:padding="10dp"
+                android:text="The primary task of Frosh is to ensure a hassle-free admission process for Freshers. The transition from school to college can be rough, but that's where Frosh comes in. Through a fun-packed series of electrifying events, interactive games, guest lectures, and cultural and technical workshops, it gives a kick start to the students’ social life. It also provides a platform for students to showcase their talents and emerge as confident individuals"
+                android:textColor="#E91E63"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textView7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:padding="10dp"
+                android:text="Welcome aboard the Journey freshers. The journey to explore and experience the new you. To Discover your Inner Self through us."
+                android:textColor="#673AB7"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="wrap_content"
+                android:layout_height="180dp" />
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
